@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Adrian Bugnacki
+#Author: 03yte
 #V1.1 | Date: 03/30/2022
 #
 
